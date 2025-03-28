@@ -1,5 +1,7 @@
 Credit Card Fraud Detection 🚀
+
 🔍 Project Overview
+
 This project focuses on detecting fraudulent credit card transactions using Machine Learning. The dataset is highly imbalanced, so techniques like SMOTE and Precision-Recall Optimization were applied to improve fraud detection.
 
 📂 Dataset
