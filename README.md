@@ -1,14 +1,22 @@
-CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING PROJECT:
+Credit Card Fraud Detection 🚀
+🔍 Project Overview
+This project focuses on detecting fraudulent credit card transactions using Machine Learning. The dataset is highly imbalanced, so techniques like SMOTE and Precision-Recall Optimization were applied to improve fraud detection.
 
-Name - katla srujana
+📂 Dataset
+The dataset contains anonymized credit card transaction data with:
 
-Project - Credit card fraud detection
+Time & Amount features
 
-Skills - Logistic regression, support vector machine, K Nearest Negihbours, Data science application, Machine learning
+V1 to V28 (PCA-transformed features)
 
-Tools - jupyter notebook,Google Colab, python, numpy, pandas, sklearn, Matplotlib
+Class (0 = Not Fraud, 1 = Fraud)
 
+🛠️ Techniques Used
+✅ Data Preprocessing (Handling Imbalance with SMOTE)
+✅ Feature Engineering & Scaling
+✅ Model Training (Logistic Regression, Decision Trees, etc.)
+✅ Evaluation (Precision, Recall, AUC-ROC, F1-score)
 
-THe DATASET: The data was taken from kaggle site: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-the columns do not have physical significance directly visible since as per the source(Kaggle), the data was compressed using principle component Analysis(PCA) in order to protect the privacy of the individuals while making a realistic secnario dataset available to public.
+📊 Results
+🏆 Training Accuracy: 95.17%
+📉 Test Accuracy: 90.86%
